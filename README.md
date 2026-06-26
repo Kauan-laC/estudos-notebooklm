@@ -119,7 +119,7 @@ Abaixo estão registrados os comandos criados para interagir com o modelo durant
    </details>
 
 3. **Pergunta:** `"Como usar juros compostos para fazer meu dinheiro render ?"`
-   *(Nota: Esta pergunta foi sugerida e proposta pelo próprio chat do NotebookLM para aprofundar os desdobramentos dos estudos).*
+   *(Nota: Esta pergunta foi sugerida e proposta pelo próprio chat do NotebookLM).*
    <details>
    <summary><b>▶ Clique aqui para abrir a resposta do assistente</b></summary>
 
