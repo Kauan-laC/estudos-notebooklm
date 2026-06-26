@@ -1,6 +1,6 @@
 # 📘 miniguia-estudos-notebooklm
 
-Estudo e primeiro notebook do NotebookLM - Miniguia introdutório a juros simples e compostos.
+Estudo do NotebookLM e primeiro notebook  - Miniguia introdutório a juros simples e compostos.
 
 ---
 
