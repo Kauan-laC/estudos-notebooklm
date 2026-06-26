@@ -1,6 +1,6 @@
 # 📘 miniguia-estudos-notebooklm
 
-Estudo do NotebookLM e primeiro notebook  - Miniguia introdutório a juros simples e compostos.
+Estudo do NotebookLM e primeiro notebook - Miniguia introdutório a juros simples e compostos.
 
 ---
 
@@ -13,7 +13,7 @@ Esse notebook abrange os conceitos de juros simples e juros compostos disponibil
 ## 📖 Glossário dos Principais Conceitos Aprendidos
 
 ### 🔹 Conceitos Fundamentais
-* **Capital (ou Valor Presente):** É o valor inicial aplicado em uma operação financeira, seja para investmento ou empréstimo.
+* **Capital (ou Valor Presente):** É o valor inicial aplicado em uma operação financeira, seja para investimento ou empréstimo.
 * **Juros:** É a remuneração paga pelo uso do capital de terceiros ao longo de um tempo; funciona como um "aluguel" pelo dinheiro.
 * **Montante (ou Valor Futuro):** É a soma do capital inicial com os juros acumulados no final de um período.
 * **Taxa de Juros:** É o percentual cobrado ou recebido sobre o valor emprestado ou investido, geralmente expressa em termos como "ao mês" (a.m.) ou "ao ano" (a.a.).
@@ -27,7 +27,7 @@ Esse notebook abrange os conceitos de juros simples e juros compostos disponibil
 * **Taxa Efetiva:** É a taxa real da operação, onde o período de capitalização coincide com o período da taxa.
 * **Taxas Proporcionais:** São taxas que se relacionam de forma linear, exclusivas do regime de juros simples.
 * **Taxas Equivalentes:** Taxas que, aplicadas a diferentes unidades de tempo (mês vs. ano), produzem o mesmo montante final no regime de juros compostos.
-* **Custo Efetivo:** Refere-se aos juros "embutidos" em uma transação, como quando uma loja não oferece desconto à vista mas diz não cobrar juros a prazo.
+* **Custo Efetivo:** Refere-se aos juros "embutidos" in uma transação, como quando uma loja não oferece desconto à vista mas diz não cobrar juros a prazo.
 
 ### ⚠️ Aplicações e Penalidades
 * **Juros de Mora:** Tarifa extra aplicada especificamente pelo atraso no pagamento de uma conta ou boleto.
@@ -40,15 +40,20 @@ Esse notebook abrange os conceitos de juros simples e juros compostos disponibil
 
 ### 🔄 Conjunto de Prompts Reutilizáveis
 
-1.  `"Explique de forma simples e didática o que são [Juros Simples / Juros Compostos] e apresente um exemplo prático do cotidiano para fixar o aprendizado."`
-2.  `"Com base nas fontes fornecidas, quais são as melhores práticas e estratégias para que eu consiga administrar bem os meus juros (evitando dívidas abusivas)?"`
-3.  `"Aja como um consultor financeiro e crie um guia passo a passo ensinando como usar os juros compostos a meu favor para fazer meu dinheiro render ao longo do tempo."`
-4.  `"Quais são as principais aplicações práticas dos juros simples e dos juros compostos no dia a dia de um cidadão comum? Liste exemplos de cobranças e de investimentos."`
-5.  `"Além de juros simples e compostos, quais outros tipos de dados, indicadores ou conceitos financeiros você pode explicar para mim, considerando que sou totalmente leigo no assunto? Apresente-os com definições bem simples."`
+Abaixo estão os comandos criados para interagir com o modelo durante este estudo:
 
+1. `"O que são juros simples e compostos ? exemplifique"`
+2. `"Explique como eu posso administrar bem os meus juros"`
+3. `"Como usar juros compostos para fazer meu dinheiro render ?"`
+4. `"Quais são as aplicações dos juros simples e compostos no meu dia a dia"`
+5. `"Além de juros simples e compostos, explique outros tipos de dados financeiros para eu que sou leigo no assunto"`
+6. 
 ---
 
 ## 📚 Curadoria de Fontes
+
+O contexto deste assistente de aprendizado foi alimentado com materiais de referência selecionados de portais de educação matemática e blogs do mercado financeiro:
+
 ### 📄 Documentos em PDF
 * [IMPA / OBMEP - Material Teórico de Juros](https://portaldaobmep.impa.br/uploads/material_teorico/cx1swhd0vxckg.pdf)
 * [Portal Halley / UFRGS - Revisão de Juros Simples e Compostos](https://atuaria.github.io/portalhalley/PDF/MatematicaAtuarial1/RevisaoJurosSimpleseComposto.pdf)
